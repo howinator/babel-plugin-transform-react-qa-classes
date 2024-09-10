@@ -136,3 +136,5 @@ Could you answer this small [Typeform](https://davesnx.typeform.com/to/JrKgBc) :
 
 ## License
 MIT
+
+kick CI
